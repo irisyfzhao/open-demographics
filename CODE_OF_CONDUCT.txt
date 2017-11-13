@@ -6,3 +6,10 @@ diverse. We’ve adopted the contributor code of conduct created by Contributor
 Convenant.
 
 http://contributor-covenant.org/version/1/4/
+
+
+
+投稿者行为准则
+---------------------------
+为了倡导开源社区的多元化和包容性，作为一个合作型的团队我们必须也努力变得包容，尊重彼此，以及多元化。我们已遵循投稿者契约编写的投稿者行为准则。
+http://contributor-covenant.org/version/1/4/
